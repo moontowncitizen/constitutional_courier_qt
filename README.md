@@ -1,4 +1,3 @@
-markdown
 # Constitutional Courier
 
 **Constitutional Courier** is a modern desktop application designed to provide an elegant and intuitive way to explore the United States Constitution. Built with Python and PyQt5, it offers a user-friendly interface that allows users to read, search, and navigate through constitutional texts seamlessly.
