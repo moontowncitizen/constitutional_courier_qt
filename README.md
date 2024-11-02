@@ -1,9 +1,9 @@
 # Constitutional Courier
 
-**Constitutional Courier** is a modern desktop application designed to provide an elegant and intuitive way to explore the United States Constitution. Built with Python and PyQt5, it offers a user-friendly interface that allows users to read, search, and navigate through constitutional texts seamlessly.
+**Constitutional Courier** is a modern desktop application designed to provide an elegant and intuitive way to explore the United States Constitution. Built with Python and PyQt5, it offers a user-friendly interface that allows users to read, search, and navigate through constitutional texts seamlessly. All offline and simple. This is a derivitive of my GTK app which is much prettier https://github.com/moontowncitizen/constitutional_courier
 
 ![Constitutional Courier Screenshot](app.png)  
-*(Note: Replace 'app.png' with the screenshot of your application)*
+
 
 ## Features
 
