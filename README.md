@@ -93,6 +93,10 @@ This project is licensed under the GPL v3.0 License - see the [LICENSE](LICENSE)
 
 For questions, suggestions, or issues, please open an issue in the GitHub repository.
 
+## Donate
+- My Kofi: https://ko-fi.com/moontowncitizen
+- BTC: bc1q4zjudz8f898rc097kq8v6yexcfuwkw0ly488je
+- ETH: 0x73d891CbE263932AF1E10231F03eeEab5C07612d
 ---
 
 Made with ❤️ for constitutional education and open source software!
